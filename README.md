@@ -64,12 +64,12 @@ Administrators can monitor platform activity through an analytics dashboard.
 - Frontend runs at http://localhost:5173
 
 ### Test Credentials
-Email: test@example.com
-Password: 123456
+- Email: test@example.com
+- Password: 123456
 
-Admin login
-Username: admin
-Password: admin123
+### Admin login
+- Username: admin
+- Password: admin123
 
 
 ## Screenshots
