@@ -71,25 +71,34 @@ Administrators can monitor platform activity through an analytics dashboard.
 - Username: admin
 - Password: admin123
 
+### Notes
+- The project includes a seeded test user and sample feedback data for evaluation.
+
+- Emotion analysis is powered by a trained machine learning model.
+
+- Run seed.py before starting the application to populate test data.
+
 
 ## Screenshots
+### Home page
 <img width="2560" height="1440" alt="homepage" src="https://github.com/user-attachments/assets/dfc1626d-a60d-4640-89ad-fd956f21ca17" />
 
-
+### Sign up page
 <img width="2560" height="1440" alt="signup" src="https://github.com/user-attachments/assets/97685913-c7d9-4f47-8afc-60f4576cf339" />
 
-
+### User login page
 <img width="2560" height="1440" alt="userlogin" src="https://github.com/user-attachments/assets/b2fe5700-1bde-4ef9-a139-d612326d6748" />
 
+### Feedback page
 <img width="2560" height="1440" alt="feedback" src="https://github.com/user-attachments/assets/f38358ae-7903-4770-a913-39e4391f5c5a" />
 
-
+### Admin login page
 <img width="2560" height="1440" alt="adminlogin" src="https://github.com/user-attachments/assets/cf6ef232-6973-4026-a9f7-ce8485b5bea0" />
 
-
+### Success message
 <img width="2560" height="1440" alt="successmessage" src="https://github.com/user-attachments/assets/01f5a8b7-59d7-4e60-89ab-391ec876ddc7" />
 
-
+### Admin dashboard 
 <img width="2560" height="1440" alt="admindashboard" src="https://github.com/user-attachments/assets/21691ce3-986a-49de-88d5-80922403ea59" />
 
 
